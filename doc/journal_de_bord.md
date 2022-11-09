@@ -6,3 +6,5 @@ Par rapport à mes précédents commits, je n'ai pas fait tous les exercices à 
 
 Je vais essayer d'organiser les exercices par date dans le dossier exercices/
 et de faire des essais pour le projet avant de faire les vrais manipulations.
+
+J'ai aussi ajouté des fichiers de script et les ai classés par date d'écriture dans l'arborescence.
