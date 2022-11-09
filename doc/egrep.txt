@@ -1,0 +1,1 @@
+egrep -C [N]: nombre de lignes qu'on veut garder après le match

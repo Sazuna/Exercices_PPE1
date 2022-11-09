@@ -1,0 +1,4 @@
+Comment ne recevoir que l'entête de la requête curl ?
+ -I, --head
+ -H, --header <header/@file>
+
