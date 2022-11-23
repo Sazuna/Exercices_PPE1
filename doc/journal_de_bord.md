@@ -8,3 +8,7 @@ Je vais essayer d'organiser les exercices par date dans le dossier exercices/
 et de faire des essais pour le projet avant de faire les vrais manipulations.
 
 J'ai aussi ajouté des fichiers de script et les ai classés par date d'écriture dans l'arborescence.
+
+- #### 11/23
+Récupération du dossier pour la séance 8.
+Exercice 2: créer les fichiers dans aspirations et dans dumps-text.
