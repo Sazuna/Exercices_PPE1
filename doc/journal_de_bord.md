@@ -12,3 +12,7 @@ J'ai aussi ajouté des fichiers de script et les ai classés par date d'écritur
 - #### 11/23
 Récupération du dossier pour la séance 8.
 Exercice 2: créer les fichiers dans aspirations et dans dumps-text.
+
+- #### 12/06
+Tentative de faire marcher la concordance: cela échoue car echo n'affiche pas les tabulations que je voudrais mettre comme séparateur du fichier csv.
+De plus, il faudrait que je crée les concordances hors de la boucle, en créant un script à part qui va lire les fichiers contextes et les transformer en table de concordance.
