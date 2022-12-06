@@ -1,0 +1,2 @@
+Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances gauche, Cible, Concordances droit
+0, 200, <a href="https://www.perdu.com">https://www.perdu.com</a>, <a href="./generated/dump-html/perdu-0.txt">HTML aspiré</a>, <a href="./generated/dump-texts/perdu-0.txt">Texte aspiré</a>, 1, <a href="./generated/contexts/perdu-0.txt">Contexte</a>, <a href="./generated/concordances/0.txt">Concordance</a>
