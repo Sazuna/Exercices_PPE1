@@ -1,0 +1,1134 @@
+Page semi-protected Robot From Wikipedia, the
+is about mechanical robots. For software agen
+es of the term, see Robot (disambiguation). A
+Articulated welding robots used in a factory 
+ type of industrial robot The quadrupedal mil
+itary robot Cheetah, an evoluti
+ld's fastest legged robot in 2012, beating th
+t by an MIT bipedal robot in 1989.^[1] A robo
+utomatically.^[2] A robot can be guided by an
+be embedded within. Robots may be constructed
+uman form, but most robots are task-performin
+ressive aesthetics. Robots can be autonomous 
+Y Ping Pong Playing Robot (TOPIO) to industri
+al robots, medical operating
+ robots, patient assist ro
+bots, dog therapy robots, collectively prog
+rammed swarm robots, UAV drones such a
+en microscopic nano robots. By mimicking a li
+mating movements, a robot may convey a sense 
+e future, with home robotics and the autonomo
+ and application of robots,^[4] as well as co
+ation processing is robotics. These technolog
+on. Many of today's robots are inspired by na
+eld of bio-inspired robotics. These robots ha
+d a newer branch of robotics: soft robotics. 
+from a Slavic root, robot-, with meanings ass
+th labor. The word 'robot' was first used to 
+ssumovi Univerzální Roboti – Rossum's Univers
+al Robots) by Karel Čapek, t
+ectronic autonomous robots created by William
+al and programmable robot was invented by Geo
+spawned his seminal robotics company, Unimati
+ip, New Jersey.^[8] Robots have replaced huma
+e increasing use of robots and their role in 
+society. Robots are blamed for ris
+ns.^[10] The use of robots in military combat
+he possibilities of robot autonomy and potent
+tableaux_fichier.sh robot.html 1 Summary base
+tableaux_fichier.sh robot.html 2 History + 2.
+Origin of the term 'robot' + 2.4 Early robots
+5 Modern autonomous robots base_tableaux_fich
+ier.sh robot.html 3 Future devel
+tableaux_fichier.sh robot.html 4 Etymology ba
+tableaux_fichier.sh robot.html 5 Modern robot
+s + 5.1 Mobile robot + 5.2 Industrial ro
+ting) + 5.3 Service robot + 5.4 Educational (
+interactive) robots + 5.5 Modular robo
++ 5.6 Collaborative robots base_tableaux_fich
+ier.sh robot.html 6 Robots in society + 6.1 A
+ions + 6.2 Military robots + 6.3 Relationship
+tableaux_fichier.sh robot.html 7 Contemporary
+-purpose autonomous robots + 7.2 Factory robo
+4.1 Early AGV-style robots # 7.2.4.2 Interim 
+ probes o 7.3.2 Telerobots o 7.3.3 Automated 
+es o 7.3.4 Domestic robots + 7.4 Military rob
+ots + 7.5 Mining robots + 7.6 Healthcare o
+cies + 7.7 Research robots o 7.7.1 Bionic and
+ biomimetic robots o 7.7.2 Nanorobots
+.7.3 Reconfigurable robots o 7.7.4 Robotic, m
+o 7.7.5 Soft-bodied robots o 7.7.6 Swarm robo
+.7 Haptic interface robots + 7.8 Contemporary
+tableaux_fichier.sh robot.html 8 Robots in po
+8.2 Films + 8.3 Sex robots + 8.4 Problems dep
+tableaux_fichier.sh robot.html 9 See also + 9
+.1 Specific robotics concepts + 9.2 R
+ries + 9.3 Specific robots and devices + 9.4 
+tableaux_fichier.sh robot.html 10 Further rea
+tableaux_fichier.sh robot.html 11 References 
+tableaux_fichier.sh robot.html 12 External li
+Anthropomorphism in robots: KITT (a fictional
+ robot) is mentally anthro
+e a human. The word robot can refer to both p
+hysical robots and virtual softwa
+machines qualify as robots but there is gener
+nd the public, that robots tend to possess so
+to the concept of a robot is the field of syn
+article: History of robots The idea of automa
+ected by mechanical robots (bhuta vahana yant
+zes the advances in robotics made by Muslim e
+as missing in Greek robotic science.^[19]^: 9
+Model of Leonardo's robot with inner workings
+lans for a humanoid robot around 1495. Da Vin
+known as Leonardo's robot, able to sit up, wa
+Origin of the term 'robot' 'Robot' was first 
+nventor of the term robot.^[6]^[7] The word '
+robot' itself was not new
+ Slavic language as robota (forced labor), a 
+feudal system (see: Robot Patent).^[46]^[47] 
+theme of the feudal robota class eloquently f
+ predominant. Early robots W. H. Richards wit
+ the first humanoid robots, Eric, was exhibit
+W. H. Richards, the robot's frame consisted o
+t power source. The robot could move its hand
+ 1939, the humanoid robot known as Elektro wa
+1928, Japan's first robot, Gakutensoku, was d
+. Modern autonomous robots The first electron
+ic autonomous robots with complex behav
+wired up. His first robots, named Elmer and E
+ee-wheeled tortoise robots were capable of ph
+uent generations of robotics researchers such
+in the form of BEAM robotics.^[54] U.S. Paten
+ed and programmable robot was invented by Geo
+tions of the modern robotics industry.^[55] D
+erated programmable robotic arm represents th
+ation of the modern robotics industry.^[57] T
+e first palletizing robot was introduced in 1
+ny.^[58] In 1973, a robot with six electromec
+]^[60]^[61] by KUKA robotics in Germany, and 
+cial and industrial robots are now in widespr
+uitable for humans. Robots are widely used in
+urther information: Robotics Various techniqu
+elop the science of robotics and robots. One 
+hod is evolutionary robotics, in which a numb
+er of differing robots are submitted to t
+ent "generation" of robots. Another method is
+ developmental robotics, which tracks ch
+ent within a single robot in the areas of pro
+Another new type of robot is just recently in
+as a smartphone and robot and is named RoboHo
+n.^[63] As robots become more advanc
+designed mainly for robots. Robot Operating S
+s ways to program a robot's navigation and li
+n ROS boots up on a robot's computer, it woul
+gth and movement of robots' limbs. It would r
+ping a "Windows for robots" system with its R
+lization of service robots by 2025. Much tech
+ure applications of robotics seem obvious to 
+the capabilities of robots available at the t
+fident that someday robots would:^[68] 1. Cle
+tries 10. Household robot. Generally such pre
+iterate or 'reading robot' named Marge has in
+76] Baxter is a new robot introduced in 2012 
+ke usual industrial robots that take extensiv
+] Prototype cooking robots have been develope
+e also: Glossary of robotics A scene from Kar
+(Rossum's Universal Robots), showing three ro
+bots The word robot was introduced to t
+(Rossum's Universal Robots), published in 192
+ified people called robots. The play does not
+ssue is whether the robots are being exploite
+pecially-formulated robots achieve self-aware
+ness and incite robots all around the wor
+sef, who suggested "roboti". The word robota 
+c Czech, as well as robot in Hungarian). Trad
+itionally the robota (Hungarian robot) 
+ropean root *orbh-. Robot is cognate with the
+^[80]^[81] The word robotics, used to describ
+ the "Three Laws of Robotics" which are a rec
+m, and in fact most robots serve military pur
+ Bath.^[82]) Modern robots A laparoscopic rob
+gery machine Mobile robot Main articles: Mobi
+le robot and Automated guide
+d vehicle Mobile robots^[83] have the capa
+example of a mobile robot that is in common u
+ An AGV is a mobile robot that follows marker
+his article. Mobile robots are also found in 
+um cleaning. Mobile robots are the focus of a
+hat focus on mobile robot research.^[86] Mobi
+le robots are usually used i
+ns rarely encounter robots. However domestic 
+robots for cleaning and m
+eveloped countries. Robots can also be found 
+ns.^[87] Industrial robots (manipulating) Mai
+rticles: Industrial robot and Manipulator (de
+e) A pick and place robot in a factory Indust
+rial robots usually consist of
+pulating industrial robot in ISO 8373: "an au
+ional Federation of Robotics, the European Ro
+ttees.^[89] Service robot Main article: Servi
+ce robot Most commonly indus
+trial robots are fixed robotic 
+. The term "service robot" is less well-defin
+ional Federation of Robotics has proposed a t
+inition, "A service robot is a robot which op
+ional (interactive) robots Main article: Educ
+ational robotics Robots are used as educat
+rs. From the 1980s, robots such as turtles we
+[91]^[92] There are robot kits like Lego Mind
+ BIOLOID, OLLO from ROBOTIS, or BotBrain Educ
+ational Robots can help children 
+g, and electronics. Robotics have also been i
+ents in the form of robot competitions with t
+ation for the FIRST Robotics Competition, FIR
+here have also been robots such as the teachi
+. 2-XL (1976) was a robot shaped game / teach
+to digital. Modular robot Main article: Self-
+configuring modular robot Modular robots are 
+a new breed of robots that are designed 
+increase the use of robots by modularizing th
+veness of a modular robot is easier to increa
+red to conventional robots. These robots are 
+undancy for modular robots, as they can be de
+ynamics for modular robots is more complex th
+an with traditional robots. Modular robots ma
+y, an early modular robotic technology patent
+ed by Robotics Design Inc., all
+creation of modular robots from U and H shape
+ homogenous modular robot systems. These "ANA
+T robots" can be designed w
+ complete motorized robotic system that folds
+gn allows a modular robot to distribute press
+ increases. Modular robots can be manually or
+to form a different robot, that may perform d
+ns. Because modular robots of the same archit
+e different modular robots, a snake-arm robot
+ dual or quadra-arm robot, or can split into 
+several mobile robots, and mobile robots
+ws a single modular robot the ability to be f
+rent tasks. Modular robotic technology is cur
+ypes. Collaborative robots A collaborative ro
+bot or cobot is a robot that can safely and
+] The collaborative robots most widely used i
+ctured by Universal Robots in Denmark.^[100] 
+Rethink Robotics—founded by Rodne
+s, previously with iRobot—introduced Baxter i
+2; as an industrial robot designed to safely 
+in the way of their robotic arms and have pro
+are promoted as the robotic analogue of the p
+lly in the UK.^[10] Robots in society TOPIO, 
+a humanoid robot, played ping pong a
+Tokyo International Robot Exhibition (IREX) 2
+hly half of all the robots in the world are i
+105] 40% of all the robots in the world are i
+e highest number of robots. Autonomy and ethi
+ence An android, or robot designed to resembl
+ to others^[107] As robots have become more a
+ethics might govern robots' behavior,^[108]^[
+109] and whether robots might be able to c
+was possible that a robot brain would exist b
+111] Others predict robot intelligence breakt
+ advances have made robotic behavior more sop
+pact of intelligent robots is subject of a 20
+ when computers and robots are smarter than h
+ether computers and robots might be able to a
+hey noted that some robots have acquired vari
+r result in greater robotic functionalities a
+118]^[119] Military robots Some experts and a
+estioned the use of robots for military comba
+specially when such robots are given some deg
+ht allow some armed robots to be controlled m
+ainly by other robots.^[121] The US Navy
+s that, as military robots become more comple
+tes that autonomous robots might be more huma
+ion this.^[124] One robot in particular, the 
+n can be considered robots, as they make some
+e workers with more robots. At present the co
+y uses ten thousand robots but will increase 
+them to a million robots over a three-year 
+eased prevalence of robots in the workplace c
+in J. Delaney said "Robots are taking human j
+loyment."^[135] The robot tax would also help
+s A general-purpose robot acts as a guide dur
+. See also: List of robots At present, there 
+e two main types of robots, based on their us
+-purpose autonomous robots and dedicated robo
+ts. Robots can be classified 
+icity of purpose. A robot might be designed t
+asks less well. All robots by their nature ca
+ example, a factory robot arm can perform job
+le a pick-and-place robot can only populate p
+-purpose autonomous robots Main article: Auto
+nomous robot General-purpose aut
+onomous robots can perform a vari
+-purpose autonomous robots typically can navi
+rs, general-purpose robots can link with netw
+ks. General-purpose robots may perform a vari
+s of day. Some such robots try to mimic human
+rance; this type of robot is called a humanoi
+d robot. Humanoid robots are still in a ver
+age, as no humanoid robot can, as of yet, act
+ded] Thus, humanoid robots are really quite l
+vironments. Factory robots Car production Ove
+become dominated by robots. A typical factory
+dreds of industrial robots working on fully a
+ion lines, with one robot for every ten human
+ed at a sequence of robot stations. Packaging
+ Industrial robots are also used exte
+d by pick-and-place robots, typically with SC
+ccuracy.^[137] Such robots can place hundreds
+e workspace. Mobile robots, following markers
+39] Early AGV-style robots Limited to tasks t
+s required, and the robots needed only the mo
+uld rather leave to robots. The job may be bo
+ever launched was a robot.^[149]^[150] Some w
+f their status as a robot. This includes the 
+, among others. Telerobots A U.S. Marine Corp
+epares to use a telerobot to detonate a burie
+ Iraq. Teleoperated robots, or telerobots, ar
+r inaccessible. The robot may be in another r
+aparoscopic surgery robot allows the surgeon 
+rator sends a small robot to disable it. Seve
+^[151] Teleoperated robot aircraft, like the 
+]^[153] Hundreds of robots such as iRobot's P
+harvesting machines Robots are used to automa
+n pickers. Domestic robots The Roomba domesti
+c vacuum cleaner robot does a single, meni
+al job Domestic robots are simple robots 
+ample of a domestic robot is a Roomba. Milita
+ry robots Main article: Mili
+tary robot Military robots include the SWORDS
+ robot which is currently 
+already exist, with robot-heavy countries suc
+gulations requiring robots to be equipped wit
+mov's Three Laws of Robotics.^[164]^[165] An 
+panese government's Robot Industry Policy Com
+nes referred to as "Robot Legal Studies."^[16
+sible occurrence of robots telling apparent f
+hoods.^[168] Mining robots Mining robots are 
+, and tele-operated robots has greatly increa
+lable as autonomous robots.^[171] The Atlas C
+rations. Healthcare Robots in healthcare have
+rmation: Disability robot The Care-Providing 
+Robot FRIEND Robots used in home autom
+e from simple basic robotic assistants, such 
+ to semi-autonomous robots, such as FRIEND wh
+ey are unavailable, robots are gradually bein
+s a semi-autonomous robot designed to support
+ Pro manufactures a robot designed to help ph
+ the drug is in the robot, will send the info
+rmation to the robot for filling. The ro
+ze of the pill. The robot technician, user, o
+the tablet when the robot is stocked. Once th
+cked up. McKesson's Robot RX is another healt
+hcare robotics product that hel
+o errors.^[179] The robot can be ten feet wid
+ needs and that the robot stocks, the bin is 
+the floor. Research robots See also: Robotics
+research While most robots today are installe
+, many new types of robot are being developed
+ of the research in robotics focuses not on s
+s into new types of robot, alternative ways t
+ink about or design robots, and new ways to m
+ these new types of robot will be able to sol
+onic and biomimetic robots Further informatio
+proach to designing robots is to base them on
+ of a kangaroo. Nanorobots Further informatio
+n: Nanorobotics Nanorobotics is the emerging 
+reating machines or robots whose components a
+rs, but functioning robots have also been mad
+le to create entire robots as small as viruse
+184] Reconfigurable robots Main article: Self
+configuring modular robot A few researchers h
+ibility of creating robots which can alter th
+tional T-1000. Real robots are nowhere near t
+ed in case any such robots become a reality.^
+[186] Robotic, mobile laborator
+rmation: Laboratory robotics In July 2020 sci
+lopment of a mobile robot chemist and demonst
+ations. The modular robot can operate laborat
+]^[188] Soft-bodied robots Robots with silico
+feel different from robots with rigid skeleto
+times even squishy) robots are often designed
+.^[190]^[191] Swarm robots Main article: Swar
+m robotics Inspired by colo
+f thousands of tiny robots which together per
+ng, or spying. Each robot is quite simple, bu
+x. The whole set of robots can be considered 
+reated include the iRobot swarm, the SRI/Mobi
+leRobots CentiBots project^
+e Open-source Micro-robotic Project swarm, wh
+. Whereas one large robot may fail and ruin a
+nue even if several robots fail. This could m
+5] Haptic interface robots Further informatio
+: Haptic technology Robotics also has applica
+rfaces. Specialized robots are in widespread 
+ch community. These robots, called "haptic in
+rtual environments. Robotic forces allow simu
+urther information: Robotic art Robots are us
+re many branches of robotic art, one of which
+ is robotic installation art,
+hibition "Artists & Robots", featuring artwor
+ts with the help of robots in 2018.^[197] Rob
+popular culture Toy robots on display at the 
+: List of fictional robots and androids and D
+ature Main article: Robots in literature Robo
+hilles, assisted by robots.^[198] According t
+l gods." The words "robot" or "android" are n
+rst use of the word Robot was in Karel Čapek'
+(Rossum's Universal Robots) (written in 1920)
+ecially those about robots, where he placed r
+set of instructions robots might be given to 
+t his Three Laws of Robotics: a robot may not
+ to come to harm; a robot must obey orders gi
+he First Law; and a robot must protect its ow
+ the Zeroth Law: "A robot may not harm humani
+ded use of the word robotics. Asimov was not 
+ See also: Category:Robot films Robots appear
+ films. Most of the robots in cinema are fict
+Wars franchise. Sex robots Main article: Sex 
+robot The concept of huma
+noid sex robots has drawn public a
+wn a battle between robots. Fears and concern
+s about robots have been repeated
+ highly intelligent robots, motivated to take
+with the theme of a robot or android advancin
+ix, Enthiran and I, Robot. Some fictional rob
+lar media where the robot becomes evil are 20
+ explores themes of robotics in warfare, robo
+ion at the sight of robots that mimic humans 
+icially intelligent robots in films such as A
+ce sympathy for the robots themselves. See al
+tableaux_fichier.sh robot.html Index of robot
+tableaux_fichier.sh robot.html Outline of rob
+tableaux_fichier.sh robot.html Artificial int
+tableaux_fichier.sh robot.html William Grey W
+alter Specific robotics concepts base_ta
+bleaux_fichier.sh robot.html Robot locomoti
+tableaux_fichier.sh robot.html Simultaneous l
+tableaux_fichier.sh robot.html Tactile sensor
+tableaux_fichier.sh robot.html Teleoperation 
+tableaux_fichier.sh robot.html Uncanny valley
+tableaux_fichier.sh robot.html von Neumann ma
+tableaux_fichier.sh robot.html Wake-up robot 
+tableaux_fichier.sh robot.html Neuromorphic e
+ngineering Robotics methods and cate
+tableaux_fichier.sh robot.html Cognitive robo
+tableaux_fichier.sh robot.html Companion robo
+tableaux_fichier.sh robot.html Domestic robot
+tableaux_fichier.sh robot.html Epigenetic rob
+tableaux_fichier.sh robot.html Evolutionary r
+tableaux_fichier.sh robot.html Humanoid robot
+tableaux_fichier.sh robot.html Autonomous rob
+tableaux_fichier.sh robot.html Microbotics ba
+tableaux_fichier.sh robot.html Robot control 
+Specific robots and devices base_t
+ableaux_fichier.sh robot.html AIBO base_tabl
+eaux_fichier.sh robot.html Autonomous spa
+tableaux_fichier.sh robot.html Driverless car
+tableaux_fichier.sh robot.html Friendly Robot
+tableaux_fichier.sh robot.html Lely Juno fami
+tableaux_fichier.sh robot.html Liquid handlin
+g robot base_tableaux_fichi
+er.sh robot.html Paro (robot) b
+tableaux_fichier.sh robot.html PatrolBot base
+tableaux_fichier.sh robot.html RoboBee base_t
+ableaux_fichier.sh robot.html Roborior base_
+tableaux_fichier.sh robot.html Robot App Stor
+tableaux_fichier.sh robot.html Unmanned vehic
+tableaux_fichier.sh robot.html Remote control
+tableaux_fichier.sh robot.html Automated guid
+tableaux_fichier.sh robot.html Al-Arshani, Sa
+orld's first living robot have found a way to
+tableaux_fichier.sh robot.html See this human
+oid robot artist sketch drawi
+tableaux_fichier.sh robot.html Margolius, Iva
+n. 'The Robot of Prague', Newslet
+hfriends.net/images/RobotsMargoliusJul2017.pd
+tableaux_fichier.sh robot.html Glaser, Horst 
+tableaux_fichier.sh robot.html Gutkind, L. (2
+lmost Human: Making Robots Think. New York: W
+tableaux_fichier.sh robot.html Craig, J.J. (2
+5). Introduction to Robotics, Pearson Prentic
+tableaux_fichier.sh robot.html Tsai, L. W. (1
+999). Robot Analysis. Wiley. Ne
+tableaux_fichier.sh robot.html Sotheby's New 
+York. The Tin Toy Robot Collection of Matt 
+tableaux_fichier.sh robot.html DeLanda, Manue
+tableaux_fichier.sh robot.html Needham, Josep
+tableaux_fichier.sh robot.html Cheney, Margar
+itudes to Androids: Robot Gender, Tasks, & Pr
+s 1. ^ "Four-legged Robot, 'Cheetah,' Sets Ne
+2. ^ Definition of 'robot'. Oxford English Di
+l 2017. 4. ^ ^a ^b "robotics". Oxford Diction
+(Autumn 2017). "The Robot of Prague" (PDF). T
+ly invent the word "robot" and what does it m
+. (1 January 2005). Robotics and Automation H
+ Devol, Inventor of Robot Arm, Dies at 99". T
+s being replaced by robots". Excelle. Monster
+reg (28 May 2014). "Robots could cost Austral
+5). "RoboNexus 2005 robot exhibition virtual 
+6 April 2002). "How Robots Work". How Stuff W
+9). "The History of Robotics". Archived from 
+im, Mark E. (1994). Robot evolution: the deve
+lopment of anthrobotics. Wiley-IEEE. ISB
+71-02622-0. 20. ^ ""Robots then and now". BBC
+b "The programmable robot of ancient Greece".
+006). "The da Vinci robot". J. Endourol. 20 (
+onstruction of this robot was 1495 ... Beginn
+own that da Vinci's robot would have had the 
+Leonardo da Vinci's Robots". Leonardo3.net. A
+er 2016. ^ "The Boy Robot of 1774". 21 Februa
+Webster Dictionary: robot". Archived from the
+Origin: Czech, from robota, compulsory labor"
+Origin Of The Word 'Robot'". NPR.org. Archive
+onouncing the Word "Robot" Wrong". Daily Kos.
+ "AH Reffell & Eric Robot (1928)". Archived f
+r 2013. ^ "Meet Mr. Robot – Not Forgetting Hi
+ed 7 March 2017. ^ "Robot Dreams : The Strang
+haut, Scott (2006). Robots of Westinghouse: 1
+ September 2008. ^ "Robot Hall of Fame – Unim
+ ^ "KUKA Industrial Robot FAMULUS". Archived 
+story of Industrial Robots" (PDF). Archived f
+story of Industrial Robots". robots.com. Arch
+oboHon: Cute little Robot cum Smartphone | Co
+ (13 August 2009). "Robots to get their own o
+-generation Service Robots in Japan (United K
+zio (30 July 2012). Robotic Tactile Sensing –
+al Special Issue on Robotic Sense of Touch". 
+EEE Transactions on Robotics. 27 (3): 385–388
+ S2CID 18608163. ^ "Robotics in practice: Fut
+on 4 March 2017. ^ "Robot can read, learn lik
+ (3 January 2013). "Robots: Brave New World m
+ry 2019. ^ "Kitchen robot in Riga cooks up ne
+20 December 2013). "Robots of death, robots o
+rs and why laws for robots are doomed to fail
+id Mechanism Mobile Robot". 2011 IEEE Interna
+tional Symposium on Robotic and Sensors Envir
+. Autonomous Mobile Robots and Multi‐Robot Sy
+us Military Service Robot". 2020 Internationa
+ ^ "Definition of a robot" (PDF). Dansk Robot
+ September 2007. ^ "Robotics-related Standard
+s Sites". European Robotics Research Network
+ly 2008. ^ "Service Robots". International Fe
+deration of Robotics. 27 October 2012
+January 29, 1985). "Robots In School: Games O
+configurable Mobile Robotics, Journal of Robo
+. ^ Scanlan, Steve, Robotics Design Inc., Mon
+eal. "Modularity in robotics provides automat
+10). "Duct cleaning robots" (PDF). roboticsde
+ 2010. ^ "Universal Robots collaborate outsid
+ry of Collaborative Robots". Engineering.com.
+mber 2012). "Baxter Robot Heads to Work'". Th
+September 2012). "A Robot With a Reassuring T
+ember 2010. ^ "Best robot 2009". gadgetrivia.
+ on 11 May 2012. ^ "Robots Today and Tomorrow
+ents the 2007 World Robotics Statistics Surve
+y". RobotWorx. 29 October 200
+er 2007. ^ "Japan's robots slug it out to be 
+ ISOMAP analysis of robot video ratings" (PDF
+Conference on Human-Robot Interaction (HRI). 
+n 5 August 2011. ^ "Robots can be racist and 
+ravec, Hans (1999). Robot: Mere Machine to Tr
+ (17 August 2009). "Robots Almost Conquering 
+ 2009). "Gaming the Robot Revolution: A milit
+27 January 2010. ^ "Robot takeover". gyre.org
+n 19 April 2012. ^ "Robotapocalypse". Engadge
+or debate on killer robots". BBC News. Archiv
+ (13 August 2009). "Robot three-way portends 
+Report Warns of War Robots Going "Terminator"
+avy report warns of robot uprising, suggests 
+010). "New role for robot warriors". The Chri
+ass-Eating Military Robot Is a Vegetarian, Co
+ Company Denies its Robots Feed on the Dead".
+sh Eating" Military Robot" (PDF) (Press relea
+Autonomous Tactical Robot" (PDF). RTI Inc. 6 
+ey, E (2018). "Will Robots Automate Your Job 
+kers with 1 million robots in 3 years". Xinhu
+ employment law and robots in the workplace".
+ebruary 2017). "The robot that takes your job
+tems Pick and Place robots". Contact Systems.
+ "SpeciMinder". CSS Robotics. Archived from t
+ember 2008. ^ "ADAM robot". RMT Robotics. Arc
+er 2008. ^ "Eskorta robot". Fennec Fox Techno
+r 2011. ^ "Delivery Robots & AGVs". Mobile Ro
+lished papers". The Robotics Institute of Car
+mber 2007. ^ ^a ^b "Robot assisted surgery: d
+"The Utilization of Robotic Space Probes in D
+anical Engineering, Robotics and Aerospace. O
+e 2006). "America's robot army". New Statesma
+007. ^ "Battlefield Robots: to Iraq, and Beyo
+"WIRED: First Armed Robots on Patrol in Iraq"
+013). "WIRED: Armed Robots Pushed To Police".
+ 2014. ^ "America's Robot Army". Popularmecha
+ed 27 July 2009. ^ "Robotic age poses ethical
+apan Sets Rules for Robots". Live Science. Ar
+ rules for advanced robots". UPI. 6 April 200
+tence of Humans and Robots" (Press release). 
+. "Toward the Human–Robot Co-Existence Societ
+for Next Generation Robots". International Jo
+urnal of Social Robotics. 1 (4): 267–282.
+st 2009). "Evolving Robots Learn To Lie To Ea
+1, A Rehabilitation Robot For The Severely Di
+sted of a Cyber 310 robotic arm with five deg
+ September 2007. ^ "Robotic future of patient
+ Self-Reconfiguring Robots" (PDF). Archived (
+ "Researchers build robot scientist that has 
+ly 2020). "A mobile robotic chemist". Nature.
+2007). "In the Lab: Robots That Slink and Squ
+rch 2019). "Squishy robots now have squishy c
+"The softer side of robotics". May 2019. Arch
+ 2019. ^ "SRI/MobileRobots". activrobots.com.
+ "Open-source micro-robotic project". Archive
+r 2007. ^ "Swarm". iRobot Corporation. Archiv
+ 2008. ^ "Artists & Robots Exposition au Gran
+. "Asimov's Laws of Robotics – Implications f
+: Call for a ban on robots designed as sex to
+telligent life-like robot as a companion for 
+ference on Humanoid Robotics (Humanoids). pp.
+otations related to Robot. base_tableaux_fich
+ier.sh robot.html Robotics at Curlie base_t
+ableaux_fichier.sh robot.html Journal of Fie
+ld Robotics base_tableaux_fi
+chier.sh robot.html v base_tableau
+x_fichier.sh robot.html t base_tableau
+x_fichier.sh robot.html e Robotics Mai
+tableaux_fichier.sh robot.html Outline base_t
+ableaux_fichier.sh robot.html Glossary base_
+tableaux_fichier.sh robot.html Index base_tab
+leaux_fichier.sh robot.html History base_t
+ableaux_fichier.sh robot.html Geography base
+tableaux_fichier.sh robot.html Hall of Fame b
+tableaux_fichier.sh robot.html Ethics base_ta
+bleaux_fichier.sh robot.html Laws base_tabl
+eaux_fichier.sh robot.html Competitions b
+tableaux_fichier.sh robot.html AI competition
+tableaux_fichier.sh robot.html Aerobot base_t
+ableaux_fichier.sh robot.html Anthropomorphi
+tableaux_fichier.sh robot.html Claytronics ba
+tableaux_fichier.sh robot.html Companion base
+tableaux_fichier.sh robot.html Animatronic + 
+tableaux_fichier.sh robot.html Industrial bas
+tableaux_fichier.sh robot.html Articulated + 
+tableaux_fichier.sh robot.html Domestic base_
+tableaux_fichier.sh robot.html Educational ba
+tableaux_fichier.sh robot.html Entertainment 
+tableaux_fichier.sh robot.html Juggling base_
+tableaux_fichier.sh robot.html Military base_
+tableaux_fichier.sh robot.html Medical base_t
+ableaux_fichier.sh robot.html Service base_t
+ableaux_fichier.sh robot.html Disability bas
+tableaux_fichier.sh robot.html Agricultural b
+tableaux_fichier.sh robot.html Food service b
+tableaux_fichier.sh robot.html Retail base_ta
+bleaux_fichier.sh robot.html BEAM robotics 
+tableaux_fichier.sh robot.html Soft robotics 
+tableaux_fichier.sh robot.html Biorobotics ba
+tableaux_fichier.sh robot.html Unmanned vehic
+tableaux_fichier.sh robot.html Mobile robot b
+tableaux_fichier.sh robot.html Microbotics ba
+tableaux_fichier.sh robot.html Nanorobotics b
+tableaux_fichier.sh robot.html Necrobotics ba
+tableaux_fichier.sh robot.html Robotic spacec
+tableaux_fichier.sh robot.html Swarm base_tab
+leaux_fichier.sh robot.html Telerobotics b
+tableaux_fichier.sh robot.html Underwater + r
+tableaux_fichier.sh robot.html Tracks base_ta
+bleaux_fichier.sh robot.html Walking + Hexa
+tableaux_fichier.sh robot.html Climbing base_
+tableaux_fichier.sh robot.html Electric unicy
+tableaux_fichier.sh robot.html Robot navigati
+tableaux_fichier.sh robot.html Evolutionary b
+tableaux_fichier.sh robot.html Kits base_tabl
+eaux_fichier.sh robot.html Simulator base
+tableaux_fichier.sh robot.html Suite base_tab
+leaux_fichier.sh robot.html Open-source ba
+tableaux_fichier.sh robot.html Software base_
+tableaux_fichier.sh robot.html Adaptable base
+tableaux_fichier.sh robot.html Developmental 
+tableaux_fichier.sh robot.html Paradigms base
+tableaux_fichier.sh robot.html Ubiquitous Rel
+tableaux_fichier.sh robot.html Critique of wo
+tableaux_fichier.sh robot.html Powered exoske
+tableaux_fichier.sh robot.html Technological 
+tableaux_fichier.sh robot.html Terrainability
+tableaux_fichier.sh robot.html Fictional robo
+tableaux_fichier.sh robot.html Category base_
+tableaux_fichier.sh robot.html Outline base_t
+ableaux_fichier.sh robot.html v base_tableau
+x_fichier.sh robot.html t base_tableau
+x_fichier.sh robot.html e Machines Cla
+tableaux_fichier.sh robot.html Inclined plane
+tableaux_fichier.sh robot.html Lever base_tab
+leaux_fichier.sh robot.html Pulley base_ta
+bleaux_fichier.sh robot.html Screw base_tab
+leaux_fichier.sh robot.html Wedge base_tab
+leaux_fichier.sh robot.html Wheel and axle
+tableaux_fichier.sh robot.html Atomic clock b
+tableaux_fichier.sh robot.html Chronometer ba
+tableaux_fichier.sh robot.html Pendulum clock
+tableaux_fichier.sh robot.html Quartz clock C
+tableaux_fichier.sh robot.html Archimedes' sc
+tableaux_fichier.sh robot.html Eductor-jet pu
+tableaux_fichier.sh robot.html Hydraulic ram 
+tableaux_fichier.sh robot.html Pump base_tabl
+eaux_fichier.sh robot.html Trompe base_ta
+bleaux_fichier.sh robot.html Vacuum pump Ex
+tableaux_fichier.sh robot.html Steam engine b
+tableaux_fichier.sh robot.html Stirling engin
+tableaux_fichier.sh robot.html Gas turbine ba
+tableaux_fichier.sh robot.html Reciprocating 
+tableaux_fichier.sh robot.html Rotary engine 
+tableaux_fichier.sh robot.html Nutating disc 
+tableaux_fichier.sh robot.html Pantograph bas
+tableaux_fichier.sh robot.html Peaucellier-Li
+tableaux_fichier.sh robot.html Gas turbine ba
+tableaux_fichier.sh robot.html Jet engine bas
+tableaux_fichier.sh robot.html Quasiturbine b
+tableaux_fichier.sh robot.html Steam turbine 
+tableaux_fichier.sh robot.html Water turbine 
+tableaux_fichier.sh robot.html Wind generator
+tableaux_fichier.sh robot.html Windmill Aerof
+tableaux_fichier.sh robot.html Sail base_tabl
+eaux_fichier.sh robot.html Wing base_tabl
+eaux_fichier.sh robot.html Rudder base_ta
+bleaux_fichier.sh robot.html Flap base_tabl
+eaux_fichier.sh robot.html Propeller Elec
+tableaux_fichier.sh robot.html Vacuum tube ba
+tableaux_fichier.sh robot.html Transistor bas
+tableaux_fichier.sh robot.html Diode base_tab
+leaux_fichier.sh robot.html Resistor base_
+tableaux_fichier.sh robot.html Capacitor base
+tableaux_fichier.sh robot.html Inductor Vehic
+tableaux_fichier.sh robot.html Automobile Mis
+tableaux_fichier.sh robot.html Mecha base_tab
+leaux_fichier.sh robot.html Robot base_tab
+leaux_fichier.sh robot.html Agricultural b
+tableaux_fichier.sh robot.html Seed-counting 
+tableaux_fichier.sh robot.html Vending machin
+tableaux_fichier.sh robot.html Wind tunnel ba
+tableaux_fichier.sh robot.html Check weighing
+tableaux_fichier.sh robot.html Riveting machi
+tableaux_fichier.sh robot.html v base_tableau
+x_fichier.sh robot.html t base_tableau
+x_fichier.sh robot.html e Science fict
+tableaux_fichier.sh robot.html Authors base_t
+ableaux_fichier.sh robot.html Definitions + 
+tableaux_fichier.sh robot.html Golden Age bas
+tableaux_fichier.sh robot.html History base_t
+ableaux_fichier.sh robot.html New Wave base_
+tableaux_fichier.sh robot.html Timeline Subge
+tableaux_fichier.sh robot.html Comedy + Sitco
+tableaux_fichier.sh robot.html Mecha + Anime 
+tableaux_fichier.sh robot.html Mundane base_t
+ableaux_fichier.sh robot.html Space warfare 
+tableaux_fichier.sh robot.html Parallel world
+tableaux_fichier.sh robot.html Science fantas
+tableaux_fichier.sh robot.html Social + Apoca
+tableaux_fichier.sh robot.html Tech noir + Sp
+tableaux_fichier.sh robot.html Tokusatsu + Ka
+tableaux_fichier.sh robot.html Cyberpunk + Ja
+tableaux_fichier.sh robot.html Biopunk base_t
+ableaux_fichier.sh robot.html Dieselpunk bas
+tableaux_fichier.sh robot.html Nanopunk base_
+tableaux_fichier.sh robot.html Solarpunk base
+tableaux_fichier.sh robot.html Steampunk Cult
+tableaux_fichier.sh robot.html Conventions ba
+tableaux_fichier.sh robot.html Fandom base_ta
+bleaux_fichier.sh robot.html Fanzines base_
+tableaux_fichier.sh robot.html Libraries and 
+tableaux_fichier.sh robot.html ISFDB base_tab
+leaux_fichier.sh robot.html Science Fictio
+tableaux_fichier.sh robot.html Studies base_t
+ableaux_fichier.sh robot.html Women in SF ba
+tableaux_fichier.sh robot.html Worldcon Regio
+tableaux_fichier.sh robot.html Australian bas
+tableaux_fichier.sh robot.html Bengali base_t
+ableaux_fichier.sh robot.html Brazilian base
+tableaux_fichier.sh robot.html Canadian base_
+tableaux_fichier.sh robot.html Chilean base_t
+ableaux_fichier.sh robot.html Chinese base_t
+ableaux_fichier.sh robot.html Croatian base_
+tableaux_fichier.sh robot.html Czech base_tab
+leaux_fichier.sh robot.html Estonian base_
+tableaux_fichier.sh robot.html French base_ta
+bleaux_fichier.sh robot.html Hungarian base
+tableaux_fichier.sh robot.html Japanese base_
+tableaux_fichier.sh robot.html Norwegian base
+tableaux_fichier.sh robot.html Polish base_ta
+bleaux_fichier.sh robot.html Romanian base_
+tableaux_fichier.sh robot.html Russian base_t
+ableaux_fichier.sh robot.html Serbian base_t
+ableaux_fichier.sh robot.html Spanish base_t
+ableaux_fichier.sh robot.html Yugoslav Award
+tableaux_fichier.sh robot.html Aurora base_ta
+bleaux_fichier.sh robot.html Chandler base_
+tableaux_fichier.sh robot.html Dragon base_ta
+bleaux_fichier.sh robot.html Hugo base_tabl
+eaux_fichier.sh robot.html Seiun base_tab
+leaux_fichier.sh robot.html Spectrum Cinem
+tableaux_fichier.sh robot.html Jules Verne ba
+tableaux_fichier.sh robot.html Saturn Literar
+tableaux_fichier.sh robot.html Astounding bas
+tableaux_fichier.sh robot.html Aurealis base_
+tableaux_fichier.sh robot.html BSFA base_tabl
+eaux_fichier.sh robot.html Campbell Memor
+tableaux_fichier.sh robot.html Chesley base_t
+ableaux_fichier.sh robot.html Clarke base_ta
+bleaux_fichier.sh robot.html Crook base_tab
+leaux_fichier.sh robot.html Deutscher base
+tableaux_fichier.sh robot.html Dick base_tabl
+eaux_fichier.sh robot.html Ditmar base_ta
+bleaux_fichier.sh robot.html Endeavor base_
+tableaux_fichier.sh robot.html FantLab base_t
+ableaux_fichier.sh robot.html Galaxy base_ta
+bleaux_fichier.sh robot.html Gaughan base_t
+ableaux_fichier.sh robot.html Geffen base_ta
+bleaux_fichier.sh robot.html Golden Duck ba
+tableaux_fichier.sh robot.html Grand Master b
+tableaux_fichier.sh robot.html Grand Prix bas
+tableaux_fichier.sh robot.html Harland base_t
+ableaux_fichier.sh robot.html Heinlein base_
+tableaux_fichier.sh robot.html Ignotus base_t
+ableaux_fichier.sh robot.html Kitschies base
+tableaux_fichier.sh robot.html Lambda base_ta
+bleaux_fichier.sh robot.html Laßwitz base_t
+ableaux_fichier.sh robot.html Locus base_tab
+leaux_fichier.sh robot.html Nautilus base_
+tableaux_fichier.sh robot.html Nebula base_ta
+bleaux_fichier.sh robot.html Nommo base_tab
+leaux_fichier.sh robot.html Norton base_ta
+bleaux_fichier.sh robot.html Parsec base_ta
+bleaux_fichier.sh robot.html Prometheus bas
+tableaux_fichier.sh robot.html Rhysling base_
+tableaux_fichier.sh robot.html SFERA base_tab
+leaux_fichier.sh robot.html Sidewise base_
+tableaux_fichier.sh robot.html Skylark base_t
+ableaux_fichier.sh robot.html Sturgeon base_
+tableaux_fichier.sh robot.html Sunburst base_
+tableaux_fichier.sh robot.html Tähtivaeltaja 
+tableaux_fichier.sh robot.html TBD base_table
+aux_fichier.sh robot.html Tiptree base_t
+ableaux_fichier.sh robot.html Tour-Apollo ba
+tableaux_fichier.sh robot.html Translation ba
+tableaux_fichier.sh robot.html Urania base_ta
+bleaux_fichier.sh robot.html Vogel base_tab
+leaux_fichier.sh robot.html Writers and Il
+tableaux_fichier.sh robot.html Zajdel Media L
+tableaux_fichier.sh robot.html Comics base_ta
+bleaux_fichier.sh robot.html Magazines base
+tableaux_fichier.sh robot.html Novels base_ta
+bleaux_fichier.sh robot.html Publishers bas
+tableaux_fichier.sh robot.html Short stories 
+tableaux_fichier.sh robot.html Opera base_tab
+leaux_fichier.sh robot.html Theatre Film b
+tableaux_fichier.sh robot.html Film history b
+tableaux_fichier.sh robot.html Films base_tab
+leaux_fichier.sh robot.html India base_tab
+leaux_fichier.sh robot.html Japanese + Ani
+tableaux_fichier.sh robot.html List of TV sho
+tableaux_fichier.sh robot.html Australasian b
+tableaux_fichier.sh robot.html British base_t
+ableaux_fichier.sh robot.html Canadian base_
+tableaux_fichier.sh robot.html European base_
+tableaux_fichier.sh robot.html Japanese + Ani
+tableaux_fichier.sh robot.html U.S. Themes Te
+tableaux_fichier.sh robot.html Artificial int
+tableaux_fichier.sh robot.html Astroengineeri
+tableaux_fichier.sh robot.html Holography bas
+tableaux_fichier.sh robot.html Robots and Cyb
+tableaux_fichier.sh robot.html Self-replicati
+tableaux_fichier.sh robot.html Simulated real
+tableaux_fichier.sh robot.html Spacecraft bas
+tableaux_fichier.sh robot.html Tachyons base_
+tableaux_fichier.sh robot.html Technomancy ba
+tableaux_fichier.sh robot.html Weapons Archit
+tableaux_fichier.sh robot.html Colonization b
+tableaux_fichier.sh robot.html Dyson sphere b
+tableaux_fichier.sh robot.html Matrioshka bra
+tableaux_fichier.sh robot.html Space stations
+tableaux_fichier.sh robot.html Stellar engine
+tableaux_fichier.sh robot.html Terraforming B
+tableaux_fichier.sh robot.html Biological war
+tableaux_fichier.sh robot.html Energy being b
+tableaux_fichier.sh robot.html Evolution base
+tableaux_fichier.sh robot.html Extraterrestri
+tableaux_fichier.sh robot.html Gender base_ta
+bleaux_fichier.sh robot.html Genetic engine
+tableaux_fichier.sh robot.html Invisibility b
+tableaux_fichier.sh robot.html Nanotechnology
+tableaux_fichier.sh robot.html Organ transpla
+tableaux_fichier.sh robot.html Parasites base
+tableaux_fichier.sh robot.html Prosthetics ba
+tableaux_fichier.sh robot.html Sex and sexual
+tableaux_fichier.sh robot.html Superhabitable
+tableaux_fichier.sh robot.html Symbiosis Phys
+tableaux_fichier.sh robot.html Ansible base_t
+ableaux_fichier.sh robot.html Black holes ba
+tableaux_fichier.sh robot.html Boom tube base
+tableaux_fichier.sh robot.html Force field ba
+tableaux_fichier.sh robot.html Hyperspace bas
+tableaux_fichier.sh robot.html Inertialess ba
+tableaux_fichier.sh robot.html Multiverse bas
+tableaux_fichier.sh robot.html Parallel unive
+tableaux_fichier.sh robot.html Planets + Eart
+tableaux_fichier.sh robot.html Portable hole 
+tableaux_fichier.sh robot.html Space travel b
+tableaux_fichier.sh robot.html Stargate base_
+tableaux_fichier.sh robot.html Stars and plan
+tableaux_fichier.sh robot.html Teleportation 
+tableaux_fichier.sh robot.html Time travel (V
+tableaux_fichier.sh robot.html Ultrawave base
+tableaux_fichier.sh robot.html Warp drive bas
+tableaux_fichier.sh robot.html Wormhole Psych
+tableaux_fichier.sh robot.html Group mind bas
+tableaux_fichier.sh robot.html Memory erasure
+tableaux_fichier.sh robot.html Mind uploading
+tableaux_fichier.sh robot.html Psionics base_
+tableaux_fichier.sh robot.html Simulated cons
+tableaux_fichier.sh robot.html Africanfuturis
+tableaux_fichier.sh robot.html Afrofuturism b
+tableaux_fichier.sh robot.html Alien invasion
+tableaux_fichier.sh robot.html Alien language
+tableaux_fichier.sh robot.html Ancient astron
+tableaux_fichier.sh robot.html Black base_tab
+leaux_fichier.sh robot.html Evil corporati
+tableaux_fichier.sh robot.html First contact 
+tableaux_fichier.sh robot.html Frankenstein c
+tableaux_fichier.sh robot.html Galactic empir
+tableaux_fichier.sh robot.html LGBT base_tabl
+eaux_fichier.sh robot.html Message from s
+tableaux_fichier.sh robot.html Political idea
+tableaux_fichier.sh robot.html Religious idea
+tableaux_fichier.sh robot.html Transhumanism 
+tableaux_fichier.sh robot.html Uplifting base
+tableaux_fichier.sh robot.html World governme
+tableaux_fichier.sh robot.html Xenoarchaeolog
+tableaux_fichier.sh robot.html Alternate hist
+tableaux_fichier.sh robot.html Fantasy base_t
+ableaux_fichier.sh robot.html Fictional astr
+tableaux_fichier.sh robot.html Fictional tech
+tableaux_fichier.sh robot.html Future history
+tableaux_fichier.sh robot.html Horror base_ta
+bleaux_fichier.sh robot.html Magic realism 
+tableaux_fichier.sh robot.html Museum of Scie
+tableaux_fichier.sh robot.html Rubber science
+tableaux_fichier.sh robot.html Science and te
+tableaux_fichier.sh robot.html Sense of wonde
+tableaux_fichier.sh robot.html Speculative fi
+tableaux_fichier.sh robot.html Supernatural b
+tableaux_fichier.sh robot.html Technology and
+tableaux_fichier.sh robot.html Weird base_tab
+leaux_fichier.sh robot.html Category base_
+tableaux_fichier.sh robot.html Portal Robot a
+tableaux_fichier.sh robot.html France (data) 
+tableaux_fichier.sh robot.html Germany base_t
+ableaux_fichier.sh robot.html Israel + 2 bas
+tableaux_fichier.sh robot.html United States 
+tableaux_fichier.sh robot.html Japan base_tab
+leaux_fichier.sh robot.html Czech Republic
+g/w/index.php?title=Robot&oldid=1120725435" C
+tableaux_fichier.sh robot.html Robotics base_
+tableaux_fichier.sh robot.html Robots base_ta
+bleaux_fichier.sh robot.html Czech words an
+tableaux_fichier.sh robot.html Science in pop
+tableaux_fichier.sh robot.html 1920s neologis
+tableaux_fichier.sh robot.html CS1 French-lan
+tableaux_fichier.sh robot.html CS1: long volu
+tableaux_fichier.sh robot.html CS1 errors: mi
+tableaux_fichier.sh robot.html All articles w
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Short descript
+tableaux_fichier.sh robot.html Wikipedia inde
+tableaux_fichier.sh robot.html Use dmy dates 
+tableaux_fichier.sh robot.html All articles l
+tableaux_fichier.sh robot.html Articles lacki
+tableaux_fichier.sh robot.html Wikipedia arti
+tableaux_fichier.sh robot.html All Wikipedia 
+tableaux_fichier.sh robot.html Articles conta
+tableaux_fichier.sh robot.html All articles c
+tableaux_fichier.sh robot.html All articles w
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles needi
+tableaux_fichier.sh robot.html All articles n
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Pages using Si
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Articles with 
+tableaux_fichier.sh robot.html Not logged in 
+tableaux_fichier.sh robot.html Talk base_tabl
+eaux_fichier.sh robot.html Contributions 
+tableaux_fichier.sh robot.html Create account
+tableaux_fichier.sh robot.html Log in Namespa
+tableaux_fichier.sh robot.html Article base_t
+ableaux_fichier.sh robot.html Talk [ ] Engli
+tableaux_fichier.sh robot.html Read base_tabl
+eaux_fichier.sh robot.html View source ba
+tableaux_fichier.sh robot.html View history [
+tableaux_fichier.sh robot.html Main page base
+tableaux_fichier.sh robot.html Contents base_
+tableaux_fichier.sh robot.html Current events
+tableaux_fichier.sh robot.html Random article
+tableaux_fichier.sh robot.html About Wikipedi
+tableaux_fichier.sh robot.html Contact us bas
+tableaux_fichier.sh robot.html Donate Contrib
+tableaux_fichier.sh robot.html Help base_tabl
+eaux_fichier.sh robot.html Learn to edit 
+tableaux_fichier.sh robot.html Community port
+tableaux_fichier.sh robot.html Recent changes
+tableaux_fichier.sh robot.html Upload file To
+tableaux_fichier.sh robot.html What links her
+tableaux_fichier.sh robot.html Related change
+tableaux_fichier.sh robot.html Upload file ba
+tableaux_fichier.sh robot.html Special pages 
+tableaux_fichier.sh robot.html Permanent link
+tableaux_fichier.sh robot.html Page informati
+tableaux_fichier.sh robot.html Cite this page
+tableaux_fichier.sh robot.html Wikidata item 
+tableaux_fichier.sh robot.html Download as PD
+tableaux_fichier.sh robot.html Printable vers
+tableaux_fichier.sh robot.html Wikimedia Comm
+tableaux_fichier.sh robot.html Wikiquote Lang
+tableaux_fichier.sh robot.html Afrikaans base
+tableaux_fichier.sh robot.html Alemannisch ba
+tableaux_fichier.sh robot.html አማርኛ base_tabl
+eaux_fichier.sh robot.html Ænglisc base_t
+ableaux_fichier.sh robot.html العربية base_t
+ableaux_fichier.sh robot.html Aragonés base_
+tableaux_fichier.sh robot.html অসমীয়া base_t
+ableaux_fichier.sh robot.html Asturianu base
+tableaux_fichier.sh robot.html Azərbaycanca b
+tableaux_fichier.sh robot.html تۆرکجه base_ta
+bleaux_fichier.sh robot.html বাংলা base_tab
+leaux_fichier.sh robot.html Bân-lâm-gú bas
+tableaux_fichier.sh robot.html Башҡортса base
+tableaux_fichier.sh robot.html Беларуская bas
+tableaux_fichier.sh robot.html Беларуская (та
+tableaux_fichier.sh robot.html Български base
+tableaux_fichier.sh robot.html Boarisch base_
+tableaux_fichier.sh robot.html Bosanski base_
+tableaux_fichier.sh robot.html Brezhoneg base
+tableaux_fichier.sh robot.html Català base_ta
+bleaux_fichier.sh robot.html Чӑвашла base_t
+ableaux_fichier.sh robot.html Čeština base_t
+ableaux_fichier.sh robot.html Cymraeg base_t
+ableaux_fichier.sh robot.html Dansk base_tab
+leaux_fichier.sh robot.html Deutsch base_t
+ableaux_fichier.sh robot.html Eesti base_tab
+leaux_fichier.sh robot.html Ελληνικά base_
+tableaux_fichier.sh robot.html Español base_t
+ableaux_fichier.sh robot.html Esperanto base
+tableaux_fichier.sh robot.html Estremeñu base
+tableaux_fichier.sh robot.html Euskara base_t
+ableaux_fichier.sh robot.html فارسی base_tab
+leaux_fichier.sh robot.html Fiji Hindi bas
+tableaux_fichier.sh robot.html Français base_
+tableaux_fichier.sh robot.html Frysk base_tab
+leaux_fichier.sh robot.html Galego base_ta
+bleaux_fichier.sh robot.html 贛語 base_tablea
+ux_fichier.sh robot.html Gĩkũyũ base_ta
+bleaux_fichier.sh robot.html 한국어 base_table
+aux_fichier.sh robot.html Hausa base_tab
+leaux_fichier.sh robot.html Հայերեն base_t
+ableaux_fichier.sh robot.html हिन्दी base_ta
+bleaux_fichier.sh robot.html Hrvatski base_
+tableaux_fichier.sh robot.html Ido base_table
+aux_fichier.sh robot.html Ilokano base_t
+ableaux_fichier.sh robot.html Bahasa Indones
+tableaux_fichier.sh robot.html Interlingua ba
+tableaux_fichier.sh robot.html IsiZulu base_t
+ableaux_fichier.sh robot.html Íslenska base_
+tableaux_fichier.sh robot.html Italiano base_
+tableaux_fichier.sh robot.html עברית base_tab
+leaux_fichier.sh robot.html Jawa base_tabl
+eaux_fichier.sh robot.html ಕನ್ನಡ base_tab
+leaux_fichier.sh robot.html ქართული base_t
+ableaux_fichier.sh robot.html Қазақша base_t
+ableaux_fichier.sh robot.html Kiswahili base
+tableaux_fichier.sh robot.html Kriyòl gwiyann
+tableaux_fichier.sh robot.html Kurdî base_tab
+leaux_fichier.sh robot.html Кыргызча base_
+tableaux_fichier.sh robot.html ລາວ base_table
+aux_fichier.sh robot.html Latina base_ta
+bleaux_fichier.sh robot.html Latviešu base_
+tableaux_fichier.sh robot.html Lietuvių base_
+tableaux_fichier.sh robot.html Lombard base_t
+ableaux_fichier.sh robot.html Magyar base_ta
+bleaux_fichier.sh robot.html Македонски bas
+tableaux_fichier.sh robot.html മലയാളം base_ta
+bleaux_fichier.sh robot.html मराठी base_tab
+leaux_fichier.sh robot.html მარგალური base
+tableaux_fichier.sh robot.html Bahasa Melayu 
+tableaux_fichier.sh robot.html Minangkabau ba
+tableaux_fichier.sh robot.html မြန်မာဘာသာ bas
+tableaux_fichier.sh robot.html Nederlands bas
+tableaux_fichier.sh robot.html नेपाली base_ta
+bleaux_fichier.sh robot.html 日本語 base_table
+aux_fichier.sh robot.html Нохчийн base_t
+ableaux_fichier.sh robot.html Norsk bokmål b
+tableaux_fichier.sh robot.html Norsk nynorsk 
+tableaux_fichier.sh robot.html Nouormand base
+tableaux_fichier.sh robot.html Occitan base_t
+ableaux_fichier.sh robot.html Oʻzbekcha/ўзбе
+tableaux_fichier.sh robot.html ਪੰਜਾਬੀ base_ta
+bleaux_fichier.sh robot.html پنجابی base_ta
+bleaux_fichier.sh robot.html پښتو base_tabl
+eaux_fichier.sh robot.html Patois base_ta
+bleaux_fichier.sh robot.html Picard base_ta
+bleaux_fichier.sh robot.html Polski base_ta
+bleaux_fichier.sh robot.html Português base
+tableaux_fichier.sh robot.html Română base_ta
+bleaux_fichier.sh robot.html Romani čhib ba
+tableaux_fichier.sh robot.html Русский base_t
+ableaux_fichier.sh robot.html ᱥᱟᱱᱛᱟᱲᱤ base_t
+ableaux_fichier.sh robot.html Scots base_tab
+leaux_fichier.sh robot.html Shqip base_tab
+leaux_fichier.sh robot.html Sicilianu base
+tableaux_fichier.sh robot.html Simple English
+tableaux_fichier.sh robot.html سنڌي base_tabl
+eaux_fichier.sh robot.html Slovenčina bas
+tableaux_fichier.sh robot.html Slovenščina ba
+tableaux_fichier.sh robot.html Soomaaliga bas
+tableaux_fichier.sh robot.html کوردی base_tab
+leaux_fichier.sh robot.html Српски / srpsk
+tableaux_fichier.sh robot.html Srpskohrvatski
+tableaux_fichier.sh robot.html Sunda base_tab
+leaux_fichier.sh robot.html Suomi base_tab
+leaux_fichier.sh robot.html Svenska base_t
+ableaux_fichier.sh robot.html தமிழ் base_tab
+leaux_fichier.sh robot.html Татарча/tatarç
+tableaux_fichier.sh robot.html ไทย base_table
+aux_fichier.sh robot.html ᏣᎳᎩ base_table
+aux_fichier.sh robot.html Türkçe base_ta
+bleaux_fichier.sh robot.html Українська bas
+tableaux_fichier.sh robot.html اردو base_tabl
+eaux_fichier.sh robot.html ئۇيغۇرچە / Uyg
+tableaux_fichier.sh robot.html Tiếng Việt bas
+tableaux_fichier.sh robot.html Võro base_tabl
+eaux_fichier.sh robot.html 文言 base_tablea
+ux_fichier.sh robot.html Winaray base_t
+ableaux_fichier.sh robot.html 吴语 base_tablea
+ux_fichier.sh robot.html ייִדיש base_ta
+bleaux_fichier.sh robot.html 粵語 base_tablea
+ux_fichier.sh robot.html Zazaki base_ta
+bleaux_fichier.sh robot.html 中文 Edit links 
+tableaux_fichier.sh robot.html This page was 
+tableaux_fichier.sh robot.html Text is availa
+tableaux_fichier.sh robot.html Privacy policy
+tableaux_fichier.sh robot.html About Wikipedi
+tableaux_fichier.sh robot.html Disclaimers ba
+tableaux_fichier.sh robot.html Contact Wikipe
+tableaux_fichier.sh robot.html Mobile view ba
+tableaux_fichier.sh robot.html Developers bas
+tableaux_fichier.sh robot.html Statistics bas
+tableaux_fichier.sh robot.html Cookie stateme
+tableaux_fichier.sh robot.html Wikimedia Foun
+tableaux_fichier.sh robot.html Powered by Med

@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Wed, 16 Nov 2022 10:21:26 GMT
+content-type: text/html
+last-modified: Thu, 02 Jun 2016 06:01:08 GMT
+etag: W/"cc-5344555136fe9-gzip"
+cache-control: max-age=600
+expires: Wed, 16 Nov 2022 10:31:26 GMT
+vary: Accept-Encoding,User-Agent
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OQIZz1bO512uI%2FP%2BKePkoO9d0dKXP7c0TI%2F6P%2FhdLc6MRfAIF85tsLxvAOEZ3VC%2Bh1QbDZ7FQPHf5crd%2BFnk%2B%2ByZeu88TDjct2LjDuX805faX5B5UFHqNggBqwev8oF6"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 76af7feccb00f124-CDG
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+<html><head><title>Vous Etes Perdu ?</title></head><body><h1>Perdu sur l'Internet ?</h1><h2>Pas de panique, on va vous aider</h2><strong><pre>    * <----- vous &ecirc;tes ici</pre></strong></body></html>
